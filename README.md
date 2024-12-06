@@ -6,7 +6,7 @@ Características
     Familia, nombre, ubicación y descubridor.
 - Reproducción de audio
 
-Uso
-Muestra el nombre completo y carnet universitario del estudiante que lo haya hecho
-Dale click a 'Cargar' para pasar a la siguiente pantalla
-Se explora los diferentes tipos de aves en Guatemala
+## Uso
+1. Muestra el nombre completo y carnet universitario del estudiante que lo haya hecho
+2. Dale click a 'Cargar' para pasar a la siguiente pantalla
+3. Se explora los diferentes tipos de aves en Guatemala
